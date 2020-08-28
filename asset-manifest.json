@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/online-class/static/css/main.c370e523.chunk.css",
+    "main.js": "/online-class/static/js/main.e3777c38.chunk.js",
+    "main.js.map": "/online-class/static/js/main.e3777c38.chunk.js.map",
+    "runtime-main.js": "/online-class/static/js/runtime-main.242a2040.js",
+    "runtime-main.js.map": "/online-class/static/js/runtime-main.242a2040.js.map",
+    "static/js/2.f4c881aa.chunk.js": "/online-class/static/js/2.f4c881aa.chunk.js",
+    "static/js/2.f4c881aa.chunk.js.map": "/online-class/static/js/2.f4c881aa.chunk.js.map",
+    "index.html": "/online-class/index.html",
+    "precache-manifest.a399f8a5db11aab18098a2614fb61d2b.js": "/online-class/precache-manifest.a399f8a5db11aab18098a2614fb61d2b.js",
+    "service-worker.js": "/online-class/service-worker.js",
+    "static/css/main.c370e523.chunk.css.map": "/online-class/static/css/main.c370e523.chunk.css.map",
+    "static/js/2.f4c881aa.chunk.js.LICENSE.txt": "/online-class/static/js/2.f4c881aa.chunk.js.LICENSE.txt",
+    "static/media/logo-coral.svg": "/online-class/static/media/logo-coral.575dac4d.svg",
+    "static/media/logo.svg": "/online-class/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.242a2040.js",
+    "static/js/2.f4c881aa.chunk.js",
+    "static/css/main.c370e523.chunk.css",
+    "static/js/main.e3777c38.chunk.js"
+  ]
+}
